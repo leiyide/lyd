@@ -158,7 +158,6 @@ $22、云端@\
 <br>\
 ";
 var d = dataStr.split('$');
-console.log(d);
 for (var i = 0; i < d.length; i++) {
     var c = d[i].split('@');
     data.push({
